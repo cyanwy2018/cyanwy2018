@@ -8,4 +8,4 @@
 cyanwy2018/cyanwy2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  Hi, I’m cyan. I’m interested in algorithm and translate(Englis to Chinese).
+  Hi, I’m cyan. I’m interested in algorithm and translate.
